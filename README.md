@@ -1,6 +1,6 @@
 # 🔐 AWS Security & DevSecOps Projects by Domain
 
-Welcome! This repository showcases a collection of hands-on **AWS Security** and **DevSecOps** projects, organized by security domains and automation pipelines.
+This repository showcases a collection of hands-on **AWS Security** and **DevSecOps** projects, organized by security domains and automation pipelines.
 
 My goal is to demonstrate how real-world AWS services, security controls, and DevSecOps practices can be applied to:
 - Design secure and scalable cloud architectures  
@@ -85,13 +85,6 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 - **Languages**: Bash, HCL, Python (Lambda)
 
 ---
-
-##### 📌 Purpose
-
-This repository serves as a reference for:
-- Cloud Security Engineers
-- GRC and Compliance Analysts
-- Learners and homelabbers exploring AWS security best practices
 
 ----
 

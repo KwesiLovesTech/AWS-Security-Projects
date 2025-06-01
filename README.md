@@ -25,8 +25,9 @@
 - SSO Integration with IAM Identity Center
 - Cross-Account Role Access with STS
 
+----
 
-### 2. Devops  &  DevSecOps
+# Devops  &  DevSecOps
 
 #### [🔧  **CI/CD Pipeline with Jenkins & Ansible**](https://github.com/KwesiLovesTech/jenkins-cicd-pipeline)
 - Fully automated Jenkins pipeline for a Java web app  

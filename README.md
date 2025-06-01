@@ -11,7 +11,6 @@ My goal is to demonstrate how real-world AWS services, security controls, and De
 Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner, you'll find practical implementations mapped to industry best practices and tools.
 
 ---
----
 
 ### 🧭 Project Overview
 
@@ -24,6 +23,7 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 | Data Protection | Encryption and secure storage | S3 object encryption |
 | Management & Governance | Compliance, architecture & assessments | Terraform IaC, Prowler scanning, secure baselines |
 
+
 ---
 
 
@@ -34,14 +34,12 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 - evoke IAM Role Temporary Security Credentials 
 - Auto-Remediate Public S3 Buckets
 
----
 
 #### 👮 Domain 2: **Security Logging and Monitoring**
 
 - S3 Events Triggering Lambda for Alerts
 - Metrics Collection with CloudWatch Agent
 
----
 
 #### 🔐 Domain 3: **Infrastructure Security** 
 
@@ -52,7 +50,6 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 - VPC Endpoints for Private Service Access
 - Private S3 Bucket Configuration
 
----
 
 #### 🔑 Domain 4: **Identity & Access Management (IAM)**
 
@@ -60,13 +57,11 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 - Single Sign-On (SSO) Integration
 - Cross-Account Access to S3 with IAM Roles
 
----
 
 #### 💾 Domain 5: **Data Protection**
 
 - S3 Object Encryption (SSE-S3, SSE-KMS)
 
----
 
 #### 🏫 Domain 6: **Management and Security Governance**
 
@@ -84,7 +79,6 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 - **Security Concepts**: Least privilege, segmentation, logging, incident response, encryption
 - **Languages**: Bash, HCL, Python (Lambda)
 
----
 
 ----
 
@@ -123,6 +117,7 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 
 #### [I**nfrastructure deployed using Ansible**]()
 
+---
 
 <br>
 

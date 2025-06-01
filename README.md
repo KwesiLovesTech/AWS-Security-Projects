@@ -14,7 +14,7 @@
 
 #### ☁️ **Cloud Security**
 - AWS Secure Architecture Design with Terraform
-  <br> [Base Networking Infrastructure For 4-Tier Architecture]()
+  <br> [Base Networking Infrastructure For 3-Tier Architecture]()
   
 - Prowler Security Assessment & Remediation
 - Auto-Remediate Public S3 Buckets

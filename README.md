@@ -120,7 +120,8 @@ Whether you're a Cloud Security Engineer, GRC Analyst, or DevSecOps practitioner
 #### [**Monitoring & Alerting with Prometheus + Grafana**](https://github.com/KwesiLovesTech/jenkins-cicd-pipeline.git)
 - Real-time monitoring for EC2 and containers  
 - Alerting rules for CPU, memory, disk usage  
-- Infrastructure deployed using Ansible
+
+#### [I**nfrastructure deployed using Ansible**]()
 
 
 <br>

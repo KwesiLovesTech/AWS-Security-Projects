@@ -1,4 +1,4 @@
-## 🔐 AWS Security & DevSecOps Projects by Domain
+## 🔐 AWS Security & DevSecOps Projects 
 
 This repository showcases a collection of hands-on **AWS Security** and **DevSecOps** projects, organized by security domains and automation pipelines.
 
